@@ -11,3 +11,5 @@ ex: If we use flot:right; for box1 then we have to use clear:right;
 Box-sizing it tells how the height and width will be calculated.
 Box-sizing has two properties- border-box and content-box.
 In Border-Box it has contains only the height and width applied to them whereas in case of content-box it also take height, width , margin , padding and border size also.
+
+Z-index is used to overlap the element, it is basically used on basis how we want to keep our box stack.
